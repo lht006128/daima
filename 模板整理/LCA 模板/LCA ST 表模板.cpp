@@ -28,7 +28,7 @@ void dfs(int x, int fa)
     arr[++idx] = tmp;
   }
 }
-
+// 测试代码
 void init(int n)
 {
 
