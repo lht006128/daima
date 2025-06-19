@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"g:\\project\\2025 4\\思维训练\\day1.cpp\\a.cpp","tests":[{"id":1748257399151,"input":"6\n2\n5 2\n7\n3 1 4 1 5 9 2\n7\n2 7 4 6 9 11 5\n3\n1 2 1\n2\n2 1\n8\n8 6 3 6 4 1 1 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\思维训练\\day1.cpp\\a.cpp","group":"local","local":true}

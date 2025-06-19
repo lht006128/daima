@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"g:\\project\\2025 4\\abc406\\a.cpp","tests":[{"id":1747483443511,"input":"22 40 22 30\n","output":""},{"id":1747483485055,"input":"22 40 22 45\n","output":""},{"id":1747483492884,"input":"12 0 11 30\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\abc406\\a.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P10915 [蓝桥杯 2024 国 B] 最长回文前后缀","url":"g:\\project\\2025 4\\P10915 [蓝桥杯 2024 国 B] 最长回文前后缀.cpp","tests":[{"id":1748072109610,"input":"abcdebccbba","output":""},{"id":1748076746158,"input":"abcdebijbba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\P10915 [蓝桥杯 2024 国 B] 最长回文前后缀.cpp","group":"local","local":true}

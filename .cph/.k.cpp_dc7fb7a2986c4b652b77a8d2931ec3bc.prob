@@ -1,0 +1,1 @@
+{"name":"Local: k","url":"g:\\project\\2025 4\\k.cpp","tests":[{"id":1746252034099,"input":"1\n5 8\n())(()","output":""},{"id":1746257395885,"input":"3\n2 2\n()\n2 4\n)(\n2 4\n()","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\k.cpp","group":"local","local":true}

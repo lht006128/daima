@@ -1,0 +1,1 @@
+{"name":"Local: 最大字数和","url":"g:\\project\\2025 4\\week 90\\最大字数和.cpp","tests":[{"id":1745388673554,"input":"7\n2 -1 -1 -3 1 1 0\n1 4\n2 5\n3 6\n4 7\n5 7\n6 7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\week 90\\最大字数和.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ABCBA ","url":"g:\\project\\2025 4\\2109\\ABCBA .cpp","tests":[{"id":1748597766358,"input":"5\n1 4 4 4 5","output":""},{"id":1748603162551,"input":"5\n1 1 1 1 1","output":""},{"id":1748606733400,"input":"4\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\2109\\ABCBA .cpp","group":"local","local":true}

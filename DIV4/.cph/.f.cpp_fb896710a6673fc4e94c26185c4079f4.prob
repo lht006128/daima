@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"g:\\project\\2025 4\\DIV4\\f.cpp","tests":[{"id":1747991991235,"input":"5 3\n11 12 13 14 15","output":""},{"id":1747992885801,"input":"6 2\n23 8 11 19 16 35","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\DIV4\\f.cpp","group":"local","local":true}

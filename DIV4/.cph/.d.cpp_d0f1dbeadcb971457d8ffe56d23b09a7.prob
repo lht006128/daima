@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"g:\\project\\2025 4\\DIV4\\d.cpp","tests":[{"id":1746930935567,"input":"5\nR\nRR\nLRLR\nLRLR\nLR\nLLLR\nLLLLLRL\nLLLLRRLL\nLLRLRLRRL\nLLLRLRRLLRRRL\n","output":""},{"id":1746930961555,"input":"1\nRRL\nRRRLR\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\DIV4\\d.cpp","group":"local","local":true}

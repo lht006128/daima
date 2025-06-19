@@ -1,0 +1,1 @@
+{"name":"Local: Marbles","url":"g:\\project\\2025 4\\2109\\Marbles.cpp","tests":[{"id":1748584819822,"input":"3\n5\n1 3 1 3 4\n3\n1 2 3\n3\n1 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\2109\\Marbles.cpp","group":"local","local":true}

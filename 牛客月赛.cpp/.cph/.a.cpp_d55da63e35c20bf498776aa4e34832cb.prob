@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"g:\\project\\2025 4\\牛客月赛.cpp\\a.cpp","tests":[{"id":1745583082173,"input":"3\nabacee\nbce\nabceee","output":""},{"id":1745583088398,"input":"3\naba\nab\nbc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\牛客月赛.cpp\\a.cpp","group":"local","local":true}

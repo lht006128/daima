@@ -1,0 +1,1 @@
+{"name":"Local: Replace Character","url":"g:\\project\\2025 4\\2109\\Replace Character.cpp","tests":[{"id":1748661066332,"input":"6\n3\nabc\n4\nxyyx\n8\nalphabet\n1\nk\n10\naabbccddee\n6\naaabbc\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\2109\\Replace Character.cpp","group":"local","local":true}

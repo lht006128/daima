@@ -1,0 +1,1 @@
+{"name":"Local: P2264 情书","url":"g:\\project\\2025 4\\P2264 情书.cpp","tests":[{"id":1744967833076,"input":"3\nlove\nso\nmuch\nI love you somuch   e  so      .much.\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\P2264 情书.cpp","group":"local","local":true}

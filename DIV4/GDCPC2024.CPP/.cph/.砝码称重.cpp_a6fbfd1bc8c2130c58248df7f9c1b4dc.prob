@@ -1,0 +1,1 @@
+{"name":"Local: 砝码称重","url":"g:\\project\\2025 4\\DIV4\\GDCPC2024.CPP\\砝码称重.cpp","tests":[{"id":1747304849013,"input":"10 4\n85 81 29 85 27 77 8 38 44 1 ","output":""},{"id":1747305061525,"input":"3 1\n1 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\DIV4\\GDCPC2024.CPP\\砝码称重.cpp","group":"local","local":true}

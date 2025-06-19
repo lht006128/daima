@@ -1,0 +1,1 @@
+{"name":"Local: 牛牛的最美味和最不美味的零食","url":"g:\\project\\2025 4\\牛牛的最美味和最不美味的零食.cpp","tests":[{"id":1745546799770,"input":"10 4\n1 5 2 6 7 4 9 3 1 5\n2 2 8\n1 3\n1 6\n2 2 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\牛牛的最美味和最不美味的零食.cpp","group":"local","local":true}

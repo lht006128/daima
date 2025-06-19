@@ -1,0 +1,1 @@
+{"name":"Local: 贪婪大陆vj","url":"g:\\project\\2025 4\\贪婪大陆vj.cpp","tests":[{"id":1746845846225,"input":"3\n001\n0110\n10001","output":""},{"id":1746846425665,"input":"2\n10\n01","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\project\\2025 4\\贪婪大陆vj.cpp","group":"local","local":true}
